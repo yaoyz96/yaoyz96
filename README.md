@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yaoyz96/yaoyz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @yaoyue zheng
+- 👀 I’m interested in few-shot learning and incremental learning
+- 🔭 I'm currently pursuing a doctoral degree at Xi'an Jiaotong University. Prior to this, I completed my master's degree at the same university.
+- 💬 If you have an interest in my work or any queries, please feel free to contact me.
+- 📫 yaoyz105@gmail.com
+
+
