@@ -12,11 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 - 👋 Hi, I’m @yaoyue zheng
 - 👀 I’m interested in few-shot learning and incremental learning
 - 🔭 I'm currently pursuing a doctoral degree at Xi'an Jiaotong University. 
 - 🎓 I completed my master's degree at Xi'an Jiaotong University and served as an intern at Huawei Research Institute.
 - 💬 If you have an interest in my work or any queries, please feel free to contact me.
 - 📫 yaoyz105@gmail.com
+-->
 
+- 💬 If you have an interest in my work or any queries, please feel free to contact me.
+- 📫 yaoyz105@gmail.com
